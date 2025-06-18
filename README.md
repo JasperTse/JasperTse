@@ -46,7 +46,7 @@ _<tr><td>_
 
     - Position: Assistant Designer
     - Responsibilities: TV circuit board testing and repair
-
+<br>
 </td></tr>
 
 </table>
