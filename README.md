@@ -97,8 +97,8 @@ _<tr><td>_
 <br><br>
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=py,cpp,java,javascript,matlab,pytorch,tensorflow,html,css,javascript,django,vscode,pycharm,idea,anaconda"/><br>
-<img src="https://skillicons.dev/icons?i=androidstudio,git,windows,linux,gcp,aws,ps,pr,linkedin,notion,latex,markdown"/><br>
+<img src="https://skillicons.dev/icons?i=py,java,matlab,cpp,pytorch,tensorflow,html,css,javascript,django,vscode,pycharm,idea"/><br>
+<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,git,windows,linux,gcp,aws,ps,pr,linkedin,notion,latex,markdown"/><br>
 <br>
 
 <!-- svg -->
