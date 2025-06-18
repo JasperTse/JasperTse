@@ -29,7 +29,7 @@ _<tr><td>_
 
 ### 🏢 Work Experience
 
-<img src="img/logo-pc.3690b6f.png" alt="描述" style="width:188px; height:auto; float:right; margin-left:10px;">
+<img align="right" width="185" src="img/logo-pc.3690b6f.png" />
 
 - [China Mobile Hong Kong](https://www.hk.chinamobile.com/en) &emsp; 📌 09/2024 — Present
 
@@ -40,7 +40,7 @@ _<tr><td>_
         - Database management
         - Base station resource management
 
-<img src="img/logo_1629794486.png" alt="描述" style="width:157px; height:auto; float:right; margin-left:10px;">
+<img align="right" width="160" src="img/logo_1629794486.png" />
 
 - [Konka Electronics Co., Ltd.](https://www.konka.com/about.html) &emsp; 📌 07/2022
 
