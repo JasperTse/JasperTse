@@ -25,7 +25,7 @@ _<tr><td>_
 
 &emsp;&emsp;In addition, I am good at radio frequency circuits design and digital signal/ images processing.  
 
-&emsp;&emsp;You can click on the `LinkedIn` link badge above to learn more about me. You can also contact me via the email above, or raise your questions in the `Issues` module.
+&emsp;&emsp;You can click on the `LinkedIn` link badge above to learn more about me. You can also contact me via the `Email` above, or raise your questions in the `Issues` module.
 
 <br>
 
