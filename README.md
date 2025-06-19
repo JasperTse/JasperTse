@@ -17,11 +17,16 @@ _<tr><td>_
 
 ### 📬 About Me
 
-<p>&emsp;&emsp;My name is Jasper. </p>
-<p>&emsp;&emsp;I love full stack development, database management, data analysis and AI+ applications.</p>
-<p>&emsp;&emsp;I am also good at hardware development and base stations management.  </p>
-<p>&emsp;&emsp;In addition, I am good at radio frequency circuits design and digital signal/ images processing.  </p>
-<p>&emsp;&emsp;You can click on the LinkedIn link badge above to learn more about me. You can also contact me via the email above, or raise your questions in the issues module.</p>
+&emsp;&emsp;My name is Jasper.
+
+&emsp;&emsp;I love full stack development, database management, data analysis and AI+ applications.
+
+&emsp;&emsp;I am also good at hardware development and base stations management.  
+
+&emsp;&emsp;In addition, I am good at radio frequency circuits design and digital signal/ images processing.  
+
+&emsp;&emsp;You can click on the `LinkedIn` link badge above to learn more about me. You can also contact me via the email above, or raise your questions in the `Issues` module.
+
 <br>
 
 
@@ -35,8 +40,8 @@ _<tr><td>_
 
     - Position: Intern
     - Responsibilities:
-        - Front-end and back-end development (Django, JavaScript, HTML, Python, etc.)
-        - AI+ Applications R&D
+        - Full stack development (Django, JavaScript, HTML, Python, etc.)
+        - AI+ applications R&D
         - Database management
         - Base station resource management
 
@@ -47,6 +52,8 @@ _<tr><td>_
     - Position: Assistant Designer
     - Responsibilities: TV circuit board testing and repair
 <br>
+
+
 </td></tr>
 
 </table>
